@@ -10,5 +10,4 @@ probably lacking several things). See that repo for a better explanation.
 
 I wrote this quickly in 2019 while learning Go and haven't touched it since.
 
-![Demo image](/Demo image.png)
-
+![Demo image](/Demo%20image.png)
